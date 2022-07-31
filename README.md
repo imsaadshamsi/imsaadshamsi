@@ -3,7 +3,7 @@
 I have 7+ Years of professional experience in Software Industry. Graduated with a major in CE in 2014 from Sir Syed University, Masters in IS from NED Universiry, and landed my first job as a software engineer. An expert in developing solutions. I'm experienced in managing teams as well as being the core individual team member.
 
 
-https://img.shields.io/badge/-muhammad saad shamsi-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-saad-shamsi/)(https://www.linkedin.com/in/muhammad-saad-shamsi/)
+https://img.shields.io/badge/-muhammad%20saad%20shamsi-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-saad-shamsi/)(https://www.linkedin.com/in/muhammad-saad-shamsi/)
 [![GitHub imsaadshamsi](https://img.shields.io/github/followers/imsaadshamsi?label=follow&style=social)](https://github.com/imsaadshamsi )
 
 
