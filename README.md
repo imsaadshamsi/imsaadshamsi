@@ -23,4 +23,17 @@ My area of expertise
 - 3rd Party Authentication ( Firebase, Google, Facebook, linkedIn)
 
 ### Tech Stack
+
+### About Me
+
+```javascript
+const SS = {
+  pronouns: "He" | "Him",
+  code: [C#, Dot Net, JavaScript, HTML5, CSS3],
+  database: [MS SQL, MySql, MongoDB, Firebase],
+  tools: [Angular, Node, Jenkins],
+}
+```
+
+
 <img src="assets/tech.svg" title="NodeJS, Dot Net C#, MS SQL, MySql, MongoDB, Angular, Flutter, Firebase, ReactJS, React Native, Dart, HTML, CSS, JS" alt="NodeJS, Dot Net C#, MS SQL, MySql, MongoDB, Angular, Flutter, Firebase, ReactJS, React Native, Dart, HTML, CSS, JS" /> <br /><br />
