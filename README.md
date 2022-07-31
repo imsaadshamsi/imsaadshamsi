@@ -24,8 +24,6 @@ My area of expertise
 
 ### Tech Stack
 
-### About Me
-
 ```javascript
 const SS = {
   pronouns: "He" | "Him",
@@ -34,6 +32,3 @@ const SS = {
   tools: [Angular, Node, Jenkins],
 }
 ```
-
-
-<img src="assets/tech.svg" title="NodeJS, Dot Net C#, MS SQL, MySql, MongoDB, Angular, Flutter, Firebase, ReactJS, React Native, Dart, HTML, CSS, JS" alt="NodeJS, Dot Net C#, MS SQL, MySql, MongoDB, Angular, Flutter, Firebase, ReactJS, React Native, Dart, HTML, CSS, JS" /> <br /><br />
