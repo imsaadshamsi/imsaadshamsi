@@ -27,7 +27,7 @@ My area of expertise
 ```javascript
 const SS = {
   pronouns: "He" | "Him",
-  code: [C#, Dot Net, JavaScript, HTML5, CSS3],
+  code: [C#, Dot Net, JavaScript, TypeScript, HTML5, CSS3],
   database: [MS SQL, MySql, MongoDB, Firebase],
   tools: [Angular, Node, Jenkins],
 }
